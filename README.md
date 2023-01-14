@@ -1,5 +1,5 @@
-# yahoo-finance-scraping (python project)
-just scraping stock data from yahoo finance website using requests
+# yahoo-finance-scraping-python project (Requests,Pandas)
+just scraping stock data from yahoo finance website using requests and analyzing with Pandas
 
 # about the project
 This was one of my first webscraping projects. Yes, i did surf youtube to find a easy one and pretty much copy pasted during the time I was writing it. But after around six months, when I went back to this same code, everything makes sense now!!
